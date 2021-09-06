@@ -26,7 +26,13 @@ Maintainer: Prashant Gupta <prashant10991@gmail.com>
 
   [2]Wang, Z., Dong, W., Josephson, W., Lv, Q., Charikar, M. and Li, K., 2007, June. Sizing sketches: a rank-based analysis for similarity search. In ACM SIGMETRICS Performance Evaluation Review (Vol. 35, No. 1, pp. 157-168). ACM.
 }
-\keyword{ Finder of Rare Entities, Rare, Rare cells, Rare events, Hashing, Outlier detection, Anomaly detection }
+\concept{Finder of Rare Entities}
+\concept{Rare}
+\concept{Rare cells}
+\concept{Rare events}
+\concept{Hashing}
+\concept{Outlier detection}
+\concept{Anomaly detection}
 \examples{
 
      ## L <- number of estimators
